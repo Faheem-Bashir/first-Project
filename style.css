@@ -283,7 +283,7 @@ footer{
     justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
-    row-gap: 10px;
+    gap: 10px;
 }
 .policy{
    display: flex;
